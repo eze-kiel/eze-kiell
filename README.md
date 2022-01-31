@@ -1,16 +1,21 @@
-# github-profile-summary-cards-example
+## Hello there
+<!-- <img align="right" alt="gif" src="https://github.com/eze-kiel/eze-kiel/blob/master/mi.gif?raw=true" width=300 height=300> -->
+<img align="right" alt="gif" src="https://github.githubassets.com/images/mona-loading-dimmed.gif" width=100 height=100>
 
-:star: [Tutorial](https://github.com/vn7n24fzkq/github-profile-summary-cards/wiki/Toturial) ( Recommendation ) :star:
+* :office: I'm currently working @ [Virtuo](https://www.govirtuo.com/) as a SRE
+* :space_invader: I love security, breaking things and making containers go skrrrr
+* :computer: I enjoy developing random (and mostly useless) stuff, especially in Go
 
-Action already setup In this template, you just need click `use this template` button to create your repo and wait for workflow to finish.
+[![](./profile-summary-card-output/nord_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](./profile-summary-card-output/nord_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](./profile-summary-card-output/nord_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](./profile-summary-card-output/nord_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](./profile-summary-card-output/nord_dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-```To create your profile README you need to name the repo as your username```
+## Might be useful
 
-| :bell: | Don't forget to modify the image (All of images are in `profile-summary-card-output` folder). |
-| :-------: | :-------------------------------------------------------------------------------------------------------- |
+GPG public key [here](https://keybase.io/ezekiell/pgp_keys.asc)
 
-[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/vue/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/vue/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/vue/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/vue/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/vue/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+GPG public key signature: `FF82 4115 9BA9 EE70`
 
-[More Info](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+## Might not be useful
+
+:game_die: A little game about recursion [here](https://github.com/eze-kiel) 
