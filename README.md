@@ -3,7 +3,7 @@
 
 <img align="right" alt="gif" src="https://github.githubassets.com/images/mona-loading-dimmed.gif" width=100 height=100>
 
-* :office: I'm currently working @ [Virtuo](https://www.govirtuo.com/) as a SRE
+* :office: I'm currently working @ [Virtuo](https://www.govirtuo.com/) as a Site Reliability Engineer
 * :space_invader: I love security, breaking things and making containers go skrrrr
 * :computer: I enjoy developing random (and mostly useless) stuff, especially in Go
 
