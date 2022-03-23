@@ -19,4 +19,4 @@ GPG public key signature: `FF82 4115 9BA9 EE70`
 
 ## Might not be useful
 
-:game_die: A little game about recursion [here](https://github.com/eze-kiel) 
+🎲 Learn about recursion [here](https://github.com/eze-kiel) 
