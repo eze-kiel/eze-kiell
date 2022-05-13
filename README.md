@@ -15,7 +15,7 @@
 
 GPG public key [here](https://keybase.io/ezekiell/pgp_keys.asc)
 
-GPG public key signature: `FF82 4115 9BA9 EE70`
+GPG public key signature: `3ACE 0FCE 7A75`
 
 ## Might not be useful
 
