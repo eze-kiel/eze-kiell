@@ -14,6 +14,7 @@
 ## Might be useful
 
 GPG public key: [here](https://keybase.io/ezekiell/pgp_keys.asc?fingerprint=9336656985d401fe423315e7072b3ace0fce7a75)
+
 GPG public key signature: `072B 3ACE 0FCE 7A75`
 
 ## Might not be useful
