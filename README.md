@@ -7,12 +7,12 @@
 * :space_invader: I love security, breaking things and making containers go skrrrr
 * :computer: I enjoy developing random (and mostly useless) stuff, especially in Go
 
-![](./profile-summary-card-output/nord_dark/0-profile-details.svg)
+<!--![](./profile-summary-card-output/nord_dark/0-profile-details.svg)-->
 <!-- ![](./profile-summary-card-output/nord_dark/1-repos-per-language.svg) ![](./profile-summary-card-output/nord_dark/2-most-commit-language.svg)
 ![](./profile-summary-card-output/nord_dark/3-stats.svg) ![](./profile-summary-card-output/nord_dark/4-productive-time.svg)
 -->
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=eze-kiel&theme=nord)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=eze-kiel&theme=dark)](https://git.io/streak-stats)
 
 ## Might be useful
 
