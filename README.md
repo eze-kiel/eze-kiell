@@ -11,6 +11,9 @@
 <!-- ![](./profile-summary-card-output/nord_dark/1-repos-per-language.svg) ![](./profile-summary-card-output/nord_dark/2-most-commit-language.svg)
 ![](./profile-summary-card-output/nord_dark/3-stats.svg) ![](./profile-summary-card-output/nord_dark/4-productive-time.svg)
 -->
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=eze-kiel&theme=nord)](https://git.io/streak-stats)
+
 ## Might be useful
 
 GPG public key: [here](https://keybase.io/ezekiell/pgp_keys.asc?fingerprint=9336656985d401fe423315e7072b3ace0fce7a75)
