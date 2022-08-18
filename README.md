@@ -24,6 +24,6 @@ GPG public key signature: `072B 3ACE 0FCE 7A75`
 
 🎲 Learn about recursion [here](https://github.com/eze-kiel) 
 
-Slowly moving to [codeberg.org](https://codeberg.org) for personal projects.
+Slowly moving to [codeberg.org](https://codeberg.org/h7c) for personal projects.
 
 🇺🇦
