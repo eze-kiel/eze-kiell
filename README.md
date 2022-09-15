@@ -18,6 +18,7 @@
 
 ![Debian](https://img.shields.io/badge/debian-%23121011.svg?style=flat&logo=debian&logoColor=white&labelColor=A81D33&color=A81D33)
 ![Git](https://img.shields.io/badge/git-%23121011.svg?style=flat&logo=git&logoColor=white&labelColor=F05032&color=F05032)
+![Prometheus](https://img.shields.io/badge/prometheus-%23121011.svg?style=flat&logo=git&logoColor=white&labelColor=E6522C&color=E6522C)
 ![Grafana](https://img.shields.io/badge/grafana-%23121011.svg?style=flat&logo=grafana&logoColor=white&labelColor=F46800&color=F46800)
 ![Cloudflare](https://img.shields.io/badge/cloudflare-%23121011.svg?style=flat&logo=cloudflare&logoColor=white&labelColor=F38020&color=F38020)
 ![Argo](https://img.shields.io/badge/argo-%23121011.svg?style=flat&logo=argo&logoColor=white&labelColor=EF7B4D&color=EF7B4D)
