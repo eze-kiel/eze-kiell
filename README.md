@@ -16,16 +16,18 @@
 
 ## My tech stack
 
-![Debian](https://img.shields.io/badge/debian-%.svg?style=flat&logo=debian&logoColor=white&labelColor=A81D33&color=A81D33)
-![Git](https://img.shields.io/badge/git-%.svg?style=flat&logo=git&logoColor=white&labelColor=F05032&color=F05032)
-![Cloudflare](https://img.shields.io/badge/cloudflare-%.svg?style=flat&logo=cloudflare&logoColor=white&labelColor=F38020&color=F38020)
-![Argo](https://img.shields.io/badge/argo-%.svg?style=flat&logo=argo&logoColor=white&labelColor=EF7B4D&color=EF7B4D)
-![Terraform](https://img.shields.io/badge/terraform-%.svg?style=flat&logo=terraform&logoColor=white&labelColor=7B42BC&color=7B42BC)
-![Helm](https://img.shields.io/badge/helm-%.svg?style=flat&logo=helm&logoColor=white&labelColor=0F1689&color=0F1689)
-![Kubernetes](https://img.shields.io/badge/kubernetes-%.svg?style=flat&logo=kubernetes&logoColor=white&labelColor=326CE5&color=326CE5)
+![Debian](https://img.shields.io/badge/debian-%23121011.svg?style=flat&logo=debian&logoColor=white&labelColor=A81D33&color=A81D33)
+![Git](https://img.shields.io/badge/git-%23121011.svg?style=flat&logo=git&logoColor=white&labelColor=F05032&color=F05032)
+![Grafana](https://img.shields.io/badge/grafana-%23121011.svg?style=flat&logo=grafana&logoColor=white&labelColor=F46800&color=F46800)
+![Cloudflare](https://img.shields.io/badge/cloudflare-%23121011.svg?style=flat&logo=cloudflare&logoColor=white&labelColor=F38020&color=F38020)
+![Argo](https://img.shields.io/badge/argo-%23121011.svg?style=flat&logo=argo&logoColor=white&labelColor=EF7B4D&color=EF7B4D)
+![Terraform](https://img.shields.io/badge/terraform-%23121011.svg?style=flat&logo=terraform&logoColor=white&labelColor=7B42BC&color=7B42BC)
+![Helm](https://img.shields.io/badge/helm-%23121011.svg?style=flat&logo=helm&logoColor=white&labelColor=0F1689&color=0F1689)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23121011.svg?style=flat&logo=kubernetes&logoColor=white&labelColor=326CE5&color=326CE5)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white&labelColor=2496ED&color=2496ED)
-![Golang](https://img.shields.io/badge/go-%.svg?style=flat&logo=go&logoColor=white&labelColor=00ADD8&color=00ADD8)
-![CircleCI](https://img.shields.io/badge/circleci-%.svg?style=flat&logo=circleci&logoColor=white&labelColor=343434&color=343434) 
+![Golang](https://img.shields.io/badge/go-%23121011.svg?style=flat&logo=go&logoColor=white&labelColor=00ADD8&color=00ADD8)
+![NewRelic](https://img.shields.io/badge/newrelic-%23121011.svg?style=flat&logo=newrelic&logoColor=white&labelColor=008C99&color=008C99)
+![CircleCI](https://img.shields.io/badge/circleci-%23121011.svg?style=flat&logo=circleci&logoColor=white&labelColor=343434&color=343434) 
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white)
 
 ## Might be useful
