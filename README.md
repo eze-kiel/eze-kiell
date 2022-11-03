@@ -7,6 +7,7 @@
 * :school: I also teach shell scripting, Go programming and offensive security techniques to BSc students @ [Lyon 1 Institute of Technology](https://www.univ-lyon1.fr/)
 * :space_invader: I love security, breaking things and making containers go skrrrr
 * :computer: I enjoy developing random (and mostly useless) stuff, especially in Go
+* :revolving_hearts: Because I love FOSS, I'm moving to [codeberg.org](https://codeberg.org/h7c) for personal projects. Of course, I encourage you to do the same ¯\\_(ツ)_/¯
 
 <!-- ![](./profile-summary-card-output/nord_dark/0-profile-details.svg) -->
 <!-- ![](./profile-summary-card-output/nord_dark/1-repos-per-language.svg) ![](./profile-summary-card-output/nord_dark/2-most-commit-language.svg)
@@ -41,7 +42,5 @@ GPG public key signature: `072B 3ACE 0FCE 7A75`
 ## Might not be useful
 
 🎲 Learn about recursion [here](https://github.com/eze-kiel) 
-
-Because I :heart: FOSS, I'm slowly moving to [codeberg.org](https://codeberg.org/h7c), one project at a time.
 
 🇺🇦
