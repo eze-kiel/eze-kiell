@@ -8,7 +8,7 @@
 * :space_invader: I love security, breaking things and making containers go skrrrr
 * :computer: I enjoy developing random (and mostly useless) stuff, especially in Go
 * :revolving_hearts: Because I love FOSS, I'm moving to [codeberg.org](https://codeberg.org/h7c) for personal projects.
-* 
+
 <!-- ![](./profile-summary-card-output/nord_dark/0-profile-details.svg) -->
 <!-- ![](./profile-summary-card-output/nord_dark/1-repos-per-language.svg) ![](./profile-summary-card-output/nord_dark/2-most-commit-language.svg)
 ![](./profile-summary-card-output/nord_dark/3-stats.svg) ![](./profile-summary-card-output/nord_dark/4-productive-time.svg)
