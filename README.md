@@ -14,9 +14,7 @@
 ![](./profile-summary-card-output/nord_dark/3-stats.svg) ![](./profile-summary-card-output/nord_dark/4-productive-time.svg)
 -->
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/ezekiel.png" alt="TryHackMe">
- 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=eze-kiel&theme=dark)](https://git.io/streak-stats)
+[![](https://tryhackme-badges.s3.amazonaws.com/ezekiel.png)](https://tryhackme.com/p/ezekiel)
 
 ## My tech stack
 
