@@ -16,7 +16,7 @@
 
 [![](https://tryhackme-badges.s3.amazonaws.com/ezekiel.png)](https://tryhackme.com/p/ezekiel)
 
-## My tech stack
+## My tech stack (part of)
 
 ![Debian](https://img.shields.io/badge/debian-%23121011.svg?style=flat&logo=debian&logoColor=white&labelColor=A81D33&color=A81D33)
 ![Git](https://img.shields.io/badge/git-%23121011.svg?style=flat&logo=git&logoColor=white&labelColor=F05032&color=F05032)
