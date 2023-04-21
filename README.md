@@ -36,11 +36,11 @@
 ## My latest blog posts
 
 <!-- BLOG:START -->
-- [Squares in Square](https://hugoblanc.com/posts/squares-in-square/)
-- [Privileges escalation using MySQL&#39;s User-Defined Functions](https://hugoblanc.com/posts/privesc-with-mysql-udf/)
-- [Generate secure passwords](https://hugoblanc.com/posts/generate-secure-passwords/)
-- [How this site runs](https://hugoblanc.com/posts/how-this-site-runs/)
-- [Supports d&#39;enseignement](https://hugoblanc.com/posts/teaching-material/)
+- [Partial history search using the Up key with Bash](https://hugoblanc.com/posts/2023/history-search-arrows-bash/)
+- [Squares in Square](https://hugoblanc.com/posts/2023/squares-in-square/)
+- [Privileges escalation using MySQL&#39;s User-Defined Functions](https://hugoblanc.com/posts/2023/privesc-with-mysql-udf/)
+- [Generate secure passwords](https://hugoblanc.com/posts/2022/generate-secure-passwords/)
+- [How this site runs](https://hugoblanc.com/posts/2022/how-this-site-runs/)
 <!-- BLOG:END -->
 
 More [here](https://hugoblanc.com).
