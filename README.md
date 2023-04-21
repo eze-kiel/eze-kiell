@@ -36,6 +36,11 @@
 ## My latest posts
 
 <!-- BLOG:START -->
+- [Squares in Square](https://hugoblanc.com/posts/squares-in-square/)
+- [Privileges escalation using MySQL&#39;s User-Defined Functions](https://hugoblanc.com/posts/privesc-with-mysql-udf/)
+- [Generate secure passwords](https://hugoblanc.com/posts/generate-secure-passwords/)
+- [How this site runs](https://hugoblanc.com/posts/how-this-site-runs/)
+- [Supports d&#39;enseignement](https://hugoblanc.com/posts/teaching-material/)
 <!-- BLOG:END -->
 
 ## Might be useful
