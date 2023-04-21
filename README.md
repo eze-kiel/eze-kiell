@@ -33,7 +33,7 @@
 ![CircleCI](https://img.shields.io/badge/circleci-%23121011.svg?style=flat&logo=circleci&logoColor=white&labelColor=343434&color=343434) 
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white)
 
-## My latest blog posts posts
+## My latest blog posts
 
 <!-- BLOG:START -->
 - [Squares in Square](https://hugoblanc.com/posts/squares-in-square/)
