@@ -35,8 +35,8 @@
 
 ## My latest posts
 
-<!-- DEVDOJO:START -->
-<!-- DEVDOJO:END -->
+<!-- BLOG:START -->
+<!-- BLOG:END -->
 
 ## Might be useful
 
