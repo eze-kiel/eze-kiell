@@ -13,7 +13,7 @@ jobs:
       - uses: actions/checkout@v2
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
-          comment_tag_name: "DEVDOJO"
+          comment_tag_name: "BLOG"
           feed_list: "https://hugoblanc.com/posts/index.xml"
           commit_message: "Update hugoblanc.com blog posts"
           gh_token: ${{ secrets.GITHUB_TOKEN }}
