@@ -36,11 +36,11 @@
 ## My latest blog posts
 
 <!-- BLOG:START -->
+- [Backups with Kopia and Backblaze B2](https://hugoblanc.com/posts/2023/backups-kopia-backblaze/)
 - [Keyless entry systems protection and bypassing](https://hugoblanc.com/posts/2023/keyless-entry-systems-protection-and-bypass/)
 - [I&#39;m leaving](https://hugoblanc.com/posts/2023/im-leaving/)
 - [Partial history search using the Up key with Bash](https://hugoblanc.com/posts/2023/history-search-arrows-bash/)
 - [Squares in Square](https://hugoblanc.com/posts/2023/squares-in-square/)
-- [Privileges escalation using MySQL&#39;s User-Defined Functions](https://hugoblanc.com/posts/2023/privesc-with-mysql-udf/)
 <!-- BLOG:END -->
 
 More [here](https://hugoblanc.com).
