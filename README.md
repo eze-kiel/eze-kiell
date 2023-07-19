@@ -36,11 +36,11 @@
 ## My latest blog posts
 
 <!-- BLOG:START -->
+- [Write a Shell in Go, part I](https://hugoblanc.com/posts/2023/shell-series/write-a-shell-in-go-part1/)
 - [Backups with Kopia and Backblaze B2](https://hugoblanc.com/posts/2023/backups-kopia-backblaze/)
 - [Keyless entry systems protection and bypassing](https://hugoblanc.com/posts/2023/keyless-entry-systems-protection-and-bypass/)
 - [I&#39;m leaving](https://hugoblanc.com/posts/2023/im-leaving/)
 - [Partial history search using the Up key with Bash](https://hugoblanc.com/posts/2023/history-search-arrows-bash/)
-- [Squares in Square](https://hugoblanc.com/posts/2023/squares-in-square/)
 <!-- BLOG:END -->
 
 More [here](https://hugoblanc.com).
