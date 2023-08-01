@@ -3,7 +3,7 @@
 
 <img align="right" alt="gif" src="https://github.githubassets.com/images/mona-loading-dimmed.gif" width=100 height=100>
 
-* :hospital: I'm currently working @ [Doctolib](https://www.doctolib.fr/) as a Security Engineer
+* :hospital: I'm currently working @ [Doctolib](https://www.doctolib.fr/) as a Platform Security Engineer
 * :school: I also teach shell scripting, Go programming and offensive security techniques to BSc students @ [Lyon 1 Institute of Technology](https://www.univ-lyon1.fr/)
 * :space_invader: I love security, breaking things and making containers go skrrrr
 * :computer: I enjoy developing random (and mostly useless) stuff, especially in Go
