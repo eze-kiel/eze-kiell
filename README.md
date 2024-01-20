@@ -36,11 +36,11 @@
 ## My latest blog posts
 
 <!-- BLOG:START -->
+- [How to prepare for a Polar expedition](https://hugoblanc.com/posts/2024/how-to-prepare-for-a-polar-expedition/)
 - [How I changed the way I teach for this year](https://hugoblanc.com/posts/2024/teaching-decisions-for-2023-and-2024/)
 - [Dice-generated passphrases](https://hugoblanc.com/posts/2023/dice-generated-passphrases/)
 - [Backups with Kopia and Backblaze B2](https://hugoblanc.com/posts/2023/backups-kopia-backblaze/)
 - [Keyless entry systems protection and bypassing](https://hugoblanc.com/posts/2023/keyless-entry-systems-protection-and-bypass/)
-- [I&#39;m leaving](https://hugoblanc.com/posts/2023/im-leaving/)
 <!-- BLOG:END -->
 
 More [here](https://hugoblanc.com).
