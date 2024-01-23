@@ -40,7 +40,7 @@
 - [How to prepare for a Polar expedition](https://hugoblanc.com/posts/2024/how-to-prepare-for-a-polar-expedition/)
 - [How I changed the way I teach for this year](https://hugoblanc.com/posts/2024/teaching-decisions-for-2023-and-2024/)
 - [Dice-generated passphrases](https://hugoblanc.com/posts/2023/dice-generated-passphrases/)
-- [Backups with Kopia and Backblaze B2](https://hugoblanc.com/posts/2023/backups-kopia-backblaze/)
+- [What I learned after 2 years of teaching](https://hugoblanc.com/posts/2024/what-i-learned-after-two-years-of-teaching/)
 <!-- BLOG:END -->
 
 More [here](https://hugoblanc.com).
