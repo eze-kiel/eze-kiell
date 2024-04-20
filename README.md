@@ -36,11 +36,11 @@
 ## My latest blog posts
 
 <!-- BLOG:START -->
+- [The Great Triage has ended](https://hugoblanc.com/posts/2024/the-great-triage-has-ended/)
 - [The Great Triage has begun](https://hugoblanc.com/posts/2024/the-great-triage-has-begun/)
 - [i++](https://hugoblanc.com/posts/2024/inc/)
 - [How to prepare for a Polar expedition](https://hugoblanc.com/posts/2024/how-to-prepare-for-a-polar-expedition/)
 - [How I changed the way I teach for this year](https://hugoblanc.com/posts/2024/teaching-decisions-for-2023-and-2024/)
-- [Dice-generated passphrases](https://hugoblanc.com/posts/2023/dice-generated-passphrases/)
 <!-- BLOG:END -->
 
 More [here](https://hugoblanc.com).
